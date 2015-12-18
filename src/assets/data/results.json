@@ -1,0 +1,3004 @@
+[
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 73,
+        "actual": 59.74,
+        "difference (mean-actual)": 13.26,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 35,
+        "actual": 12.2,
+        "difference (mean-actual)": 22.8,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 25,
+        "actual": 44,
+        "difference (should-actual)": -19,
+        "source": "Credit Suisse (2014)"
+      },
+      {
+        "question": "3",
+        "mean": 44,
+        "actual": 31.4,
+        "difference (mean-actual)": 12.6,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 38,
+        "actual": 24.9,
+        "difference (mean-actual)": 13.1,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 46,
+        "actual": 44,
+        "difference (mean-actual)": -2,
+        "source": "Credit Suisse (2014)"
+      },
+      {
+        "question": "8",
+        "mean": 40,
+        "actual": 52,
+        "difference (mean-actual)": -12,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 26,
+        "actual": 36.2,
+        "difference (mean-actual)": -10.2,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 32,
+        "actual": 8.4,
+        "difference (mean-actual)": 23.6,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 30,
+        "actual": 4.5,
+        "difference (mean-actual)": 25.5,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 53,
+        "actual": 50.2,
+        "difference (mean-actual)": 2.8,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Argentina"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 82,
+        "actual": 89.62,
+        "difference (mean-actual)": -7.62,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 45,
+        "actual": 24.2,
+        "difference (mean-actual)": 20.8,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 24,
+        "actual": 21,
+        "difference (should-actual)": 3,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 48,
+        "actual": 38.4,
+        "difference (mean-actual)": 9.6,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 27,
+        "actual": 18,
+        "difference (mean-actual)": 9,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 54,
+        "actual": 21,
+        "difference (mean-actual)": -33,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 51,
+        "actual": 62,
+        "difference (mean-actual)": -11,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 17,
+        "actual": 26.7,
+        "difference (mean-actual)": -9.7,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 26,
+        "actual": 10.7,
+        "difference (mean-actual)": 15.3,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 38,
+        "actual": 27.7,
+        "difference (mean-actual)": 10.3,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 55,
+        "actual": 66.1,
+        "difference (mean-actual)": -11.1,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Australia",
+    "ISO":"AU"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 78,
+        "actual": 84.72,
+        "difference (mean-actual)": -6.72,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 37,
+        "actual": 29,
+        "difference (mean-actual)": 8,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 16,
+        "actual": 18,
+        "difference (should-actual)": -2,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 55,
+        "actual": 41.4,
+        "difference (mean-actual)": 13.6,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 50,
+        "actual": 18,
+        "difference (mean-actual)": -32,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 36,
+        "actual": 53,
+        "difference (mean-actual)": -17,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 27,
+        "actual": 39.3,
+        "difference (mean-actual)": -12.3,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 38,
+        "actual": 2.182,
+        "difference (mean-actual)": 35.818,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 24,
+        "actual": 10.4,
+        "difference (mean-actual)": 13.6,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 58,
+        "actual": 57.9,
+        "difference (mean-actual)": 0.1,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 34,
+        "actual": 17.2,
+        "difference (mean-actual)": 16.8,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "Belgium",
+    "ISO":"BE"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 72,
+        "actual": 53.37,
+        "difference (mean-actual)": 18.63,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 35,
+        "actual": 7.9,
+        "difference (mean-actual)": 27.1,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 33,
+        "actual": 48,
+        "difference (should-actual)": -15,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 56,
+        "actual": 31.1,
+        "difference (mean-actual)": 24.9,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 39,
+        "actual": 23.8,
+        "difference (mean-actual)": 15.2,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 40,
+        "actual": 48,
+        "difference (mean-actual)": 8,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 47,
+        "actual": 56,
+        "difference (mean-actual)": -9,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 18,
+        "actual": 9.9,
+        "difference (mean-actual)": 8.1,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 34,
+        "actual": 14.567,
+        "difference (mean-actual)": 19.433,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 25,
+        "actual": 0.3,
+        "difference (mean-actual)": 24.7,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 52,
+        "actual": 55.5,
+        "difference (mean-actual)": -3.5,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Brazil",
+    "ISO":"BR"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 81,
+        "actual": 92.89,
+        "difference (mean-actual)": -11.89,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 41,
+        "actual": 23.7,
+        "difference (mean-actual)": 17.3,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 26,
+        "actual": 25,
+        "difference (should-actual)": 1,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 50,
+        "actual": 41.8,
+        "difference (mean-actual)": 8.2,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 26,
+        "actual": 15.5,
+        "difference (mean-actual)": 10.5,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 55,
+        "actual": 25,
+        "difference (mean-actual)": -30,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 43,
+        "actual": 56,
+        "difference (mean-actual)": -13,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 22,
+        "actual": 25.3,
+        "difference (mean-actual)": -3.3,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 34,
+        "actual": 18.35,
+        "difference (mean-actual)": 15.65,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 39,
+        "actual": 20.7,
+        "difference (mean-actual)": 18.3,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 64,
+        "actual": 69.4,
+        "difference (mean-actual)": -5.4,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Canada",
+    "ISO":"CA"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 77,
+        "actual": 65.76,
+        "difference (mean-actual)": 11,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 35,
+        "actual": 16,
+        "difference (mean-actual)": 19,
+        "source": "http://www.pewforum.org/2014/11/13/religion-in-latin-america/",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 22,
+        "actual": 43,
+        "difference (should-actual)": -21,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 45,
+        "actual": 33.7,
+        "difference (mean-actual)": 13,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 32,
+        "actual": 20.7,
+        "difference (mean-actual)": 11,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 54,
+        "actual": 43,
+        "difference (mean-actual)": -11,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 53,
+        "actual": 66,
+        "difference (mean-actual)": -13,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 22,
+        "actual": 15.8,
+        "difference (mean-actual)": 6,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 34,
+        "actual": 10.644,
+        "difference (mean-actual)": 23.356,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 19,
+        "actual": 2.3,
+        "difference (mean-actual)": 17,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 55,
+        "actual": 45.1,
+        "difference (mean-actual)": 9.9,
+        "source": "http://www.ine.cl/canales/chile_estadistico/mercado_del_trabajo/nene/series_trimestrales_2011.php"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Chile",
+    "ISO":"CH"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 72,
+        "actual": 46,
+        "difference (mean-actual)": 26,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 57,
+        "actual": 52.2,
+        "difference (mean-actual)": 4.8,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 32,
+        "actual": 39,
+        "difference (should-actual)": -7,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 56,
+        "actual": 36.7,
+        "difference (mean-actual)": 19.3,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 23,
+        "actual": 17.1,
+        "difference (mean-actual)": 5.9,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 56,
+        "actual": 39,
+        "difference (mean-actual)": -17,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 34,
+        "actual": 28,
+        "difference (mean-actual)": 6,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 21,
+        "actual": 23.6,
+        "difference (mean-actual)": -2.6,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 52,
+        "actual": 45.6,
+        "difference (mean-actual)": 6.4,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 11,
+        "actual": 0.1,
+        "difference (mean-actual)": 10.9,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 63,
+        "actual": 61.7,
+        "difference (mean-actual)": 1.3,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "China",
+    "ISO":"CN"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 70,
+        "actual": 52.44,
+        "difference (mean-actual)": 18,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 28,
+        "actual": 6.6,
+        "difference (mean-actual)": 21.4,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 27,
+        "actual": 34,
+        "difference (should-actual)": -7,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 41,
+        "actual": 29.3,
+        "difference (mean-actual)": 12,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 38,
+        "actual": 25.3,
+        "difference (mean-actual)": 12.7,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 43,
+        "actual": 34,
+        "difference (mean-actual)": -9,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 35,
+        "actual": 55,
+        "difference (mean-actual)": -20,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 37,
+        "actual": 19.9,
+        "difference (mean-actual)": 17.1,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 39,
+        "actual": 23.839,
+        "difference (mean-actual)": 15,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 17,
+        "actual": 0.3,
+        "difference (mean-actual)": 17,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 53,
+        "actual": 55.2,
+        "difference (mean-actual)": -2,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Colombia",
+    "ISO":"CO"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 80,
+        "actual": 85.75,
+        "difference (mean-actual)": -5.75,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 46,
+        "actual": 28,
+        "difference (mean-actual)": 18,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 27,
+        "actual": 23,
+        "difference (should-actual)": 4,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 47,
+        "actual": 41.1,
+        "difference (mean-actual)": 5.9,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 27,
+        "actual": 18.7,
+        "difference (mean-actual)": 8.3,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 56,
+        "actual": 23,
+        "difference (mean-actual)": -33,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 32,
+        "actual": 49,
+        "difference (mean-actual)": -17,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 28,
+        "actual": 26.2,
+        "difference (mean-actual)": 1.8,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 43,
+        "actual": 20.711,
+        "difference (mean-actual)": 22.289,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 26,
+        "actual": 11.6,
+        "difference (mean-actual)": 14.4,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 66,
+        "actual": 60.9,
+        "difference (mean-actual)": 5.1,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 36,
+        "actual": 11.3,
+        "difference (mean-actual)": 24.7,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "France",
+    "ISO":"FR"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 81,
+        "actual": 89.9,
+        "difference (mean-actual)": -8.9,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 45,
+        "actual": 25,
+        "difference (mean-actual)": 20,
+        "source": "Census data",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 20,
+        "actual": 23,
+        "difference (should-actual)": -3,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 51,
+        "actual": 40.4,
+        "difference (mean-actual)": 10.6,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 27,
+        "actual": 17.4,
+        "difference (mean-actual)": 9.6,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 59,
+        "actual": 23,
+        "difference (mean-actual)": -36,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 44,
+        "actual": 62,
+        "difference (mean-actual)": -18,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 23,
+        "actual": 29.4,
+        "difference (mean-actual)": -6.4,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 30,
+        "actual": 17.655,
+        "difference (mean-actual)": 12.345,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 25,
+        "actual": 13,
+        "difference (mean-actual)": 12,
+        "source": "Census data"
+      },
+      {
+        "question": "12",
+        "mean": 60,
+        "actual": 67.8,
+        "difference (mean-actual)": -7.8,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 43,
+        "actual": 14,
+        "difference (mean-actual)": 29,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "UK",
+    "ISO":"UK"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 84,
+        "actual": 87,
+        "difference (mean-actual)": -3,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 38,
+        "actual": 24.7,
+        "difference (mean-actual)": 4,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 18,
+        "actual": 30,
+        "difference (should-actual)": -12,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 51,
+        "actual": 46.5,
+        "difference (mean-actual)": 4.5,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 24,
+        "actual": 13,
+        "difference (mean-actual)": 11,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 59,
+        "actual": 30,
+        "difference (mean-actual)": -29,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 40,
+        "actual": 57,
+        "difference (mean-actual)": -17,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 27,
+        "actual": 36.1,
+        "difference (mean-actual)": -9.1,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 38,
+        "actual": 24.906,
+        "difference (mean-actual)": 13.094,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 26,
+        "actual": 11.9,
+        "difference (mean-actual)": 14.1,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 57,
+        "actual": 69.5,
+        "difference (mean-actual)": -12.5,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 27,
+        "actual": 16.8,
+        "difference (mean-actual)": 10.2,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "Germany",
+    "ISO":"DE"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 70,
+        "actual": 74.38,
+        "difference (mean-actual)": -4.38,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 39,
+        "actual": 18.6,
+        "difference (mean-actual)": 20.4,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": "--",
+        "actual": 0,
+        "difference (should-actual)": 0,
+        "source": 0
+      },
+      {
+        "question": "3",
+        "mean": 63,
+        "actual": 41.4,
+        "difference (mean-actual)": 21.6,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 28,
+        "actual": 14.8,
+        "difference (mean-actual)": 13.2,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      },
+      {
+        "question": "8",
+        "mean": 49,
+        "actual": 60,
+        "difference (mean-actual)": -11,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 12,
+        "actual": 9.5,
+        "difference (mean-actual)": 2.5,
+        "source": "http://www.parlament.hu/aktiv-kepviseloi-nevsor"
+      },
+      {
+        "question": "10",
+        "mean": 44,
+        "actual": 29.229,
+        "difference (mean-actual)": 14.771,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 15,
+        "actual": 4.7,
+        "difference (mean-actual)": 10.3,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 59,
+        "actual": 55.9,
+        "difference (mean-actual)": 3.1,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 49,
+        "actual": 47.5,
+        "difference (mean-actual)": 1.5,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "Hungary",
+    "ISO":"HU"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 60,
+        "actual": 19.2,
+        "difference (mean-actual)": 40.8,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 33,
+        "actual": 0,
+        "difference (mean-actual)": 33,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 30,
+        "actual": 53,
+        "difference (should-actual)": -23,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 49,
+        "actual": 27,
+        "difference (mean-actual)": 22,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 39,
+        "actual": 28.1,
+        "difference (mean-actual)": 10.9,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 40,
+        "actual": 53,
+        "difference (mean-actual)": 13,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 41,
+        "actual": 20,
+        "difference (mean-actual)": 21,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 23,
+        "actual": 12,
+        "difference (mean-actual)": 11,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 55,
+        "actual": 67.6,
+        "difference (mean-actual)": -12.6,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 21,
+        "actual": 0.4,
+        "difference (mean-actual)": 20.6,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 41,
+        "actual": 25,
+        "difference (mean-actual)": 16,
+        "source": "Census of India Statistics 2011"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "India",
+    "ISO":"IN"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 77,
+        "actual": 81.6,
+        "difference (mean-actual)": -5,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 34.21,
+        "actual": 6.2,
+        "difference (mean-actual)": 28.01,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 23.17,
+        "actual": 27,
+        "difference (should-actual)": -3.83,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 49.52,
+        "actual": 36.1,
+        "difference (mean-actual)": 13.42,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 32.69,
+        "actual": 21.5,
+        "difference (mean-actual)": 11.19,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 39.87,
+        "actual": 27,
+        "difference (mean-actual)": -12.87,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 43.74,
+        "actual": 58,
+        "difference (mean-actual)": -14.26,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 17.3,
+        "actual": 16,
+        "difference (mean-actual)": 1.3,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 42,
+        "actual": 37,
+        "difference (mean-actual)": 5,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 23,
+        "actual": 15.9,
+        "difference (mean-actual)": 7,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 50,
+        "actual": 56.4,
+        "difference (mean-actual)": -5.78,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 39.33,
+        "actual": 19.4,
+        "difference (mean-actual)": 19.93,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "Ireland",
+    "ISO":"IE"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 60,
+        "actual": 75.8,
+        "difference (mean-actual)": -15.8,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 16,
+        "actual": 3.1,
+        "difference (mean-actual)": 12.9,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 14,
+        "actual": 39,
+        "difference (should-actual)": -25,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 41,
+        "actual": 29.9,
+        "difference (mean-actual)": 11.1,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 23,
+        "actual": 28,
+        "difference (mean-actual)": -5,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 32,
+        "actual": 39,
+        "difference (mean-actual)": 7,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 24,
+        "actual": 57,
+        "difference (mean-actual)": -33,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 19,
+        "actual": 25,
+        "difference (mean-actual)": -6,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 23,
+        "actual": 8.7,
+        "difference (mean-actual)": 14.3,
+        "source": "http://www.cbs.gov.il/reader/shnaton/templ_shnaton.html?num_tab=st02_18x&CYear=2015"
+      },
+      {
+        "question": "11",
+        "mean": 24,
+        "actual": 26.5,
+        "difference (mean-actual)": -2.5,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 39,
+        "actual": 68.4,
+        "difference (mean-actual)": -29.4,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Israel",
+    "ISO":"IL"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 75,
+        "actual": 59.92,
+        "difference (mean-actual)": 15.08,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 35,
+        "actual": 12.4,
+        "difference (mean-actual)": 22.6,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 26,
+        "actual": 23,
+        "difference (should-actual)": 3,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 59,
+        "actual": 44.8,
+        "difference (mean-actual)": 14.2,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 26,
+        "actual": 13.8,
+        "difference (mean-actual)": 12.2,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 46,
+        "actual": 23,
+        "difference (mean-actual)": -23,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 36,
+        "actual": 50,
+        "difference (mean-actual)": -14,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 26,
+        "actual": 31,
+        "difference (mean-actual)": -5,
+        "source": "http://www.camera.it/leg17/313 "
+      },
+      {
+        "question": "10",
+        "mean": 44,
+        "actual": 31.179,
+        "difference (mean-actual)": 12.821,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 26,
+        "actual": 9.4,
+        "difference (mean-actual)": 16.6,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 44,
+        "actual": 47.5,
+        "difference (mean-actual)": -3.5,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 61,
+        "actual": 49,
+        "difference (mean-actual)": 12,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "Italy",
+    "ISO":"IT"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 74,
+        "actual": 86.03,
+        "difference (mean-actual)": -12.03,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 53,
+        "actual": 57,
+        "difference (mean-actual)": -4,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 25,
+        "actual": 19,
+        "difference (should-actual)": 6,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 65,
+        "actual": 46.5,
+        "difference (mean-actual)": 18.5,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 17,
+        "actual": 13.2,
+        "difference (mean-actual)": 3.8,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 41,
+        "actual": 19,
+        "difference (mean-actual)": -22,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 32,
+        "actual": 23,
+        "difference (mean-actual)": 9,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 12,
+        "actual": 9.5,
+        "difference (mean-actual)": 2.5,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 56,
+        "actual": 6.979,
+        "difference (mean-actual)": 49.021,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 10,
+        "actual": 1.9,
+        "difference (mean-actual)": 8.1,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 56,
+        "actual": 63.6,
+        "difference (mean-actual)": -7.6,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Japan",
+    "ISO":"JP"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 64,
+        "actual": 44,
+        "difference (mean-actual)": 20,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 35,
+        "actual": 4.7,
+        "difference (mean-actual)": 30.3,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 30,
+        "actual": 36,
+        "difference (should-actual)": -6,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 44,
+        "actual": 27.6,
+        "difference (mean-actual)": 16.4,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 43,
+        "actual": 27.9,
+        "difference (mean-actual)": 15.1,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 36,
+        "actual": 36,
+        "difference (mean-actual)": 0,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 53,
+        "actual": 69,
+        "difference (mean-actual)": -16,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 26,
+        "actual": 42.4,
+        "difference (mean-actual)": -16.4,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 49,
+        "actual": 21.029,
+        "difference (mean-actual)": 27.971,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 22,
+        "actual": 0.9,
+        "difference (mean-actual)": 21.1,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 56,
+        "actual": 44.5,
+        "difference (mean-actual)": 11.5,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Mexico",
+    "ISO":"MX"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 73.58,
+        "actual": 64,
+        "difference (mean-actual)": 9.58,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 24.82,
+        "actual": 3.2,
+        "difference (mean-actual)": 21.62,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": "--",
+        "actual": 0,
+        "difference (should-actual)": 0,
+        "source": 0
+      },
+      {
+        "question": "3",
+        "mean": 56.04,
+        "actual": 39.7,
+        "difference (mean-actual)": 16.34,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 24.66,
+        "actual": 19.2,
+        "difference (mean-actual)": 5.46,
+        "source": "MONSTAT"
+      },
+      {
+        "question": "7",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      },
+      {
+        "question": "8",
+        "mean": 35.47,
+        "actual": 59,
+        "difference (mean-actual)": -23.53,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 14,
+        "actual": 17.3,
+        "difference (mean-actual)": -3.3,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 30.1,
+        "actual": 36.2,
+        "difference (mean-actual)": -6.1,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 15.9,
+        "actual": 8.2,
+        "difference (mean-actual)": 7.7,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 41.41,
+        "actual": 47.95,
+        "difference (mean-actual)": -6.54,
+        "source": "MONSTAT pg. 3"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Montenegro",
+    "ISO":"ME"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 86.28,
+        "actual": 96.08,
+        "difference (mean-actual)": -9.8,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 49.91,
+        "actual": 42.1,
+        "difference (mean-actual)": 7.81,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 16.45,
+        "actual": 24,
+        "difference (should-actual)": -7.55,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 52.91,
+        "actual": 42.3,
+        "difference (mean-actual)": 10.61,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 22.14,
+        "actual": 16.7,
+        "difference (mean-actual)": 5.44,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 39.67,
+        "actual": 24,
+        "difference (mean-actual)": -15.67,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 40.39,
+        "actual": 49,
+        "difference (mean-actual)": -8.61,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 27.58,
+        "actual": 37.3,
+        "difference (mean-actual)": -9.72,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 32.11,
+        "actual": 10.09,
+        "difference (mean-actual)": 22.02,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 25.18,
+        "actual": 11.7,
+        "difference (mean-actual)": 13.48,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 58.56,
+        "actual": 68.1,
+        "difference (mean-actual)": -9.54,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 18.3,
+        "actual": 10.5,
+        "difference (mean-actual)": 7.8,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "Netherlands",
+    "ISO":"NL"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 80,
+        "actual": 91.5,
+        "difference (mean-actual)": -11.5,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 49,
+        "actual": 36.6,
+        "difference (mean-actual)": 12.4,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 27,
+        "actual": 18,
+        "difference (should-actual)": 9,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 45,
+        "actual": 37.7,
+        "difference (mean-actual)": 7,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 33,
+        "actual": 19.9,
+        "difference (mean-actual)": 13.1,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 50,
+        "actual": 18,
+        "difference (mean-actual)": -32,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 47,
+        "actual": 66,
+        "difference (mean-actual)": -21,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 24,
+        "actual": 31,
+        "difference (mean-actual)": -14,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 35,
+        "actual": 14,
+        "difference (mean-actual)": 23,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 37,
+        "actual": 25.1,
+        "difference (mean-actual)": 11.9,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 57,
+        "actual": 69.1,
+        "difference (mean-actual)": -12.1,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "New Zealand",
+    "ISO":"NZ"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 90.16,
+        "actual": 96.15,
+        "difference (mean-actual)": -5.99,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 38.33,
+        "actual": 10.1,
+        "difference (mean-actual)": 28.23,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 15.31,
+        "actual": 25,
+        "difference (should-actual)": -9.69,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 55.95,
+        "actual": 39.1,
+        "difference (mean-actual)": 16.85,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 21.96,
+        "actual": 18.2,
+        "difference (mean-actual)": 3.76,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 45.32,
+        "actual": 25,
+        "difference (mean-actual)": -20.32,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 32.91,
+        "actual": 53,
+        "difference (mean-actual)": -20.09,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 37.85,
+        "actual": 39.6,
+        "difference (mean-actual)": -1.75,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 35.61,
+        "actual": 19.792,
+        "difference (mean-actual)": 15.818,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 16.2,
+        "actual": 13.8,
+        "difference (mean-actual)": 2.4,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 72.72,
+        "actual": 73.4,
+        "difference (mean-actual)": -0.68,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 18.63,
+        "actual": 4.1,
+        "difference (mean-actual)": 14.53,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "Norway",
+    "ISO":"NO"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 69,
+        "actual": 40.9,
+        "difference (mean-actual)": 28,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 28,
+        "actual": 3,
+        "difference (mean-actual)": 25,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 29,
+        "actual": 47,
+        "difference (should-actual)": -18,
+        "source": "Credit Suisse (2014)"
+      },
+      {
+        "question": "3",
+        "mean": 41,
+        "actual": 27.3,
+        "difference (mean-actual)": 13.7,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 41,
+        "actual": 27.3,
+        "difference (mean-actual)": 14,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 32,
+        "actual": 47,
+        "difference (mean-actual)": 15,
+        "source": "Credit Suisse (2014)"
+      },
+      {
+        "question": "8",
+        "mean": 41,
+        "actual": 56,
+        "difference (mean-actual)": -15,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 24,
+        "actual": 22.3,
+        "difference (mean-actual)": 2,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 47,
+        "actual": 21.715,
+        "difference (mean-actual)": 25,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 21,
+        "actual": 0.3,
+        "difference (mean-actual)": 21,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 54,
+        "actual": 60,
+        "difference (mean-actual)": -6,
+        "source": "http://iinei.inei.gob.pe/microdatos/"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Peru",
+    "ISO":"PE"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 76,
+        "actual": 67.15,
+        "difference (mean-actual)": 8.85,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 26,
+        "actual": 5.6,
+        "difference (mean-actual)": 20.4,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 17,
+        "actual": 34,
+        "difference (should-actual)": -17,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 55,
+        "actual": 39.9,
+        "difference (mean-actual)": 15.1,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 26,
+        "actual": 14.7,
+        "difference (mean-actual)": 11.3,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 38,
+        "actual": 34,
+        "difference (mean-actual)": -4,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 40,
+        "actual": 57,
+        "difference (mean-actual)": -17,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 22,
+        "actual": 24.1,
+        "difference (mean-actual)": -2.1,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 37,
+        "actual": 39.432,
+        "difference (mean-actual)": -2.432,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 9,
+        "actual": 1.7,
+        "difference (mean-actual)": 7.3,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 52,
+        "actual": 55.2,
+        "difference (mean-actual)": -3.2,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 46,
+        "actual": 44.1,
+        "difference (mean-actual)": 1.9,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "Poland",
+    "ISO":"PL"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 73,
+        "actual": 70,
+        "difference (mean-actual)": 3,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 45,
+        "actual": 16.2,
+        "difference (mean-actual)": 28.8,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 23,
+        "actual": 70,
+        "difference (should-actual)": -47,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 48,
+        "actual": 39.1,
+        "difference (mean-actual)": 8.9,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 29,
+        "actual": 16.4,
+        "difference (mean-actual)": 12.6,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 53,
+        "actual": 70,
+        "difference (mean-actual)": 17,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 31,
+        "actual": 57,
+        "difference (mean-actual)": -26,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 31,
+        "actual": 13.6,
+        "difference (mean-actual)": 17.4,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 30,
+        "actual": 26.076,
+        "difference (mean-actual)": 3.924,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 27,
+        "actual": 7.7,
+        "difference (mean-actual)": 19.3,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 67,
+        "actual": 64.8,
+        "difference (mean-actual)": 2.2,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Russia",
+    "ISO":"RU"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 60,
+        "actual": 59.2,
+        "difference (mean-actual)": 0.8,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 12,
+        "actual": 0,
+        "difference (mean-actual)": 12,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": "--",
+        "actual": 0,
+        "difference (should-actual)": 0,
+        "source": 0
+      },
+      {
+        "question": "3",
+        "mean": 36,
+        "actual": 26.8,
+        "difference (mean-actual)": 9.2,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 30,
+        "actual": 27.1,
+        "difference (mean-actual)": 2.9,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      },
+      {
+        "question": "8",
+        "mean": 28,
+        "actual": 71,
+        "difference (mean-actual)": -43,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      },
+      {
+        "question": "10",
+        "mean": 26,
+        "actual": 17.1,
+        "difference (mean-actual)": 8.9,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 24,
+        "actual": 31.4,
+        "difference (mean-actual)": -7.4,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 28,
+        "actual": 20,
+        "difference (mean-actual)": 8,
+        "source": "World Bank"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Saudi Arabia",
+    "ISO":"SA"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 72.07,
+        "actual": 56,
+        "difference (mean-actual)": 16.07,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 31.37,
+        "actual": 3.3,
+        "difference (mean-actual)": 28.07,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": "--",
+        "actual": 0,
+        "difference (should-actual)": 0,
+        "source": 0
+      },
+      {
+        "question": "3",
+        "mean": 55.63,
+        "actual": 42.1,
+        "difference (mean-actual)": 13.53,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 23.78,
+        "actual": 14.8,
+        "difference (mean-actual)": 8.98,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      },
+      {
+        "question": "8",
+        "mean": 42.09,
+        "actual": 53,
+        "difference (mean-actual)": -10.91,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 20.13,
+        "actual": 34,
+        "difference (mean-actual)": -13.87,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 34.57,
+        "actual": 44.545,
+        "difference (mean-actual)": -9.975,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 22.16,
+        "actual": 5.6,
+        "difference (mean-actual)": 16.56,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 37.45,
+        "actual": 39.38,
+        "difference (mean-actual)": -1.93,
+        "source": "Census data - Statistical Office of the Republic of Serbia (RZS pg. 1; )"
+      },
+      {
+        "question": "13",
+        "mean": 68.02,
+        "actual": 54,
+        "difference (mean-actual)": 14.02,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "Serbia",
+    "ISO":"RS"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 55,
+        "actual": 34,
+        "difference (mean-actual)": 21,
+        "source": "http://www.ipsos.co.za/SitePages/63%20percent%20of%20South%20Africans%20are%20not%20online.aspx"
+      },
+      {
+        "question": "2",
+        "mean": 36,
+        "actual": 14.9,
+        "difference (mean-actual)": 21.1,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 30,
+        "actual": 43,
+        "difference (should-actual)": -13,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 43,
+        "actual": 26.5,
+        "difference (mean-actual)": 16.5,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 42,
+        "actual": 28.3,
+        "difference (mean-actual)": 13.7,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 49,
+        "actual": 43,
+        "difference (mean-actual)": -6,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 47,
+        "actual": 55,
+        "difference (mean-actual)": -8,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 34,
+        "actual": 41.9,
+        "difference (mean-actual)": -7.9,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 53,
+        "actual": 35.7,
+        "difference (mean-actual)": 17.3,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 29,
+        "actual": 4.5,
+        "difference (mean-actual)": 24.5,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 49,
+        "actual": 36.9,
+        "difference (mean-actual)": 12.1,
+        "source": "Khayabus 2015"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "South Africa",
+    "ISO":"ZA"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 83,
+        "actual": 92,
+        "difference (mean-actual)": -9,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 42,
+        "actual": 46.4,
+        "difference (mean-actual)": -4.4,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 18,
+        "actual": 34,
+        "difference (should-actual)": -16,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 53,
+        "actual": 40.8,
+        "difference (mean-actual)": 12.2,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 18,
+        "actual": 14.1,
+        "difference (mean-actual)": 3.9,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 49,
+        "actual": 34,
+        "difference (mean-actual)": -15,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 32,
+        "actual": 32,
+        "difference (mean-actual)": 0,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 14,
+        "actual": 16.3,
+        "difference (mean-actual)": -2.3,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 30,
+        "actual": 17.6,
+        "difference (mean-actual)": 12.4,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 11,
+        "actual": 2.5,
+        "difference (mean-actual)": 8.5,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 42,
+        "actual": 54.9,
+        "difference (mean-actual)": -12.9,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "South Korea",
+    "ISO":"KR"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 76,
+        "actual": 74.38,
+        "difference (mean-actual)": 1.62,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 44,
+        "actual": 19,
+        "difference (mean-actual)": 25,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 17,
+        "actual": 27,
+        "difference (should-actual)": -10,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 51,
+        "actual": 42,
+        "difference (mean-actual)": 9,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 23,
+        "actual": 15.4,
+        "difference (mean-actual)": 7.6,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 56,
+        "actual": 27,
+        "difference (mean-actual)": -29,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 38,
+        "actual": 58,
+        "difference (mean-actual)": -20,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 29,
+        "actual": 41.4,
+        "difference (mean-actual)": -12.4,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 32,
+        "actual": 20.6,
+        "difference (mean-actual)": 11.4,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 22,
+        "actual": 13.8,
+        "difference (mean-actual)": 8.2,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 43,
+        "actual": 52,
+        "difference (mean-actual)": -9,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 65,
+        "actual": 40,
+        "difference (mean-actual)": 25,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "Spain",
+    "ISO":"ES"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 85,
+        "actual": 89.1,
+        "difference (mean-actual)": -4.1,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 44,
+        "actual": 27,
+        "difference (mean-actual)": 17,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 19,
+        "actual": 32,
+        "difference (should-actual)": -13,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 57,
+        "actual": 41.2,
+        "difference (mean-actual)": 16,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 21,
+        "actual": 16.9,
+        "difference (mean-actual)": 4,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 46,
+        "actual": 32,
+        "difference (mean-actual)": -14,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 33,
+        "actual": 52,
+        "difference (mean-actual)": -19,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 38,
+        "actual": 43.6,
+        "difference (mean-actual)": -6,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 33,
+        "actual": 14.3,
+        "difference (mean-actual)": 18.7,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 25,
+        "actual": 15.9,
+        "difference (mean-actual)": 9,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 69,
+        "actual": 73.2,
+        "difference (mean-actual)": -6,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 24,
+        "actual": 4.3,
+        "difference (mean-actual)": 19.7,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "Sweden",
+    "ISO":"SE"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 68,
+        "actual": 46.62,
+        "difference (mean-actual)": 21.38,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 15,
+        "actual": 1.2,
+        "difference (mean-actual)": 13.8,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 21,
+        "actual": 54,
+        "difference (should-actual)": -33,
+        "source": "Credit Suisse (2014)"
+      },
+      {
+        "question": "3",
+        "mean": 54,
+        "actual": 30.1,
+        "difference (mean-actual)": 23.9,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 31,
+        "actual": 25.5,
+        "difference (mean-actual)": 5.5,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 53,
+        "actual": 54,
+        "difference (mean-actual)": 1,
+        "source": "Credit Suisse (2014)"
+      },
+      {
+        "question": "8",
+        "mean": 32,
+        "actual": 65,
+        "difference (mean-actual)": -33,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 15,
+        "actual": 17.8,
+        "difference (mean-actual)": -2.8,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 37,
+        "actual": 8.2,
+        "difference (mean-actual)": 28.8,
+        "source": "TURSSTAT"
+      },
+      {
+        "question": "11",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      },
+      {
+        "question": "12",
+        "mean": 34,
+        "actual": 29.5,
+        "difference (mean-actual)": 4.5,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": "--",
+        "actual": 0,
+        "difference (mean-actual)": 0,
+        "source": 0
+      }
+    ],
+    "country": "Turkey",
+    "ISO":"TK"
+  },
+  {
+    "questions": [
+      {
+        "question": "1",
+        "mean": 76,
+        "actual": 86.75,
+        "difference (mean-actual)": -10.75,
+        "source": "ILS"
+      },
+      {
+        "question": "2",
+        "mean": 40,
+        "actual": 16.4,
+        "difference (mean-actual)": 23.6,
+        "source": "Pew",
+        "country comment": 0
+      },
+      {
+        "question": "7b",
+        "mean": 27,
+        "actual": 37,
+        "difference (should-actual)": -10,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "3",
+        "mean": 47,
+        "actual": 37.8,
+        "difference (mean-actual)": 9.2,
+        "source": "CIA"
+      },
+      {
+        "question": "4",
+        "mean": 29,
+        "actual": 19.4,
+        "difference (mean-actual)": 9.6,
+        "source": "CIA"
+      },
+      {
+        "question": "7",
+        "mean": 57,
+        "actual": 37,
+        "difference (mean-actual)": -20,
+        "source": "Credit Suisse"
+      },
+      {
+        "question": "8",
+        "mean": 50,
+        "actual": 66,
+        "difference (mean-actual)": -16,
+        "source": "IHME"
+      },
+      {
+        "question": "9",
+        "mean": 21,
+        "actual": 19.4,
+        "difference (mean-actual)": 1.6,
+        "source": "IPU"
+      },
+      {
+        "question": "10",
+        "mean": 35,
+        "actual": 19.3,
+        "difference (mean-actual)": 15.7,
+        "source": "World Bank"
+      },
+      {
+        "question": "11",
+        "mean": 33,
+        "actual": 14.3,
+        "difference (mean-actual)": 18.7,
+        "source": "UN"
+      },
+      {
+        "question": "12",
+        "mean": 63,
+        "actual": 63,
+        "difference (mean-actual)": 0,
+        "source": "OECD"
+      },
+      {
+        "question": "13",
+        "mean": 34,
+        "actual": 12,
+        "difference (mean-actual)": 22,
+        "source": "Eurostat"
+      }
+    ],
+    "country": "United States",
+    "ISO":"US"
+  }
+]

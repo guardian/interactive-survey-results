@@ -1,0 +1,91 @@
+[
+	{
+		"question":"Out of every 100 people in [Country], about how many do you think have access to the internet at home either through a computer or mobile device?",
+		"id":"1",
+		"index":9,
+		"text":"Responses to this question seemingly vary between emerging countries that overestimate connectivity, and more advanced economies underestimating their levels. The former may, in part at least, have to do with the survey's online sample.",
+		"short":"internet access"
+	},
+	{
+		"question":"Out of every 100 people in [Country], about how many do you think do not affiliate themselves with any religion – that is, atheists, agnostics and those who say they do not identify with any religion?",
+		"id":"2",
+		"index":1,
+		"text":"Japan and South Korea are the only two countries to not overestimate the proportion of people that do not affiliate themselves with any religion. <i>Nearly all other countries surveyed get the proportion significantly wrong, with respondents in the UK and the US exaggerating the proportion by 20 and 24 points respectively.</i>",
+		"short":"religion"
+	},
+	{
+		"question":"How old do you think the average person in [country] is?",
+		"id":"3",
+		"range":[16,90],
+		"index":5,
+		"text":"Every country surveyed believes its population is older than actually is.",
+		"short":"average age"
+	},
+	{
+		"question":"Out of every 100 people in [Country], about how many do you think are aged 14 or younger?",
+		"id":"4",
+		"index":6,
+		"text":"But despite the previous finding, respondents in all the countries polled, with the exception of Israel, also overestimate how many they think are aged 14 or younger.",
+		"short":"age"
+	},
+	{
+		"question":"What proportion of [Country]’s total household wealth do you think the wealthiest 1% own?",
+		"id":"7",
+		"units":"%",
+		"index":2,
+		"text":"Most countries surveyed overestimate the proportion of wealth owned by the 1%. <i>Interestingly, however, when asked how much wealth should the richest in society hold, the responses are closer to the actual levels.</i>",
+		"short":"the 1%"
+	},
+	/*
+	{
+		"question":"What proportion of [Country]’s total household wealth do you think the wealthiest 1% SHOULD own?",
+		"id":"7b",
+		"units":"%"
+	},
+	*/
+	{
+		"question":"Out of every 100 people aged 20 years or over in [Country], how many do you think are either overweight or obese?",
+		"id":"8",
+		"index":3,
+		"text":"Most people in the world underestimate how many are overweight or obese. South Koreans are the only respondents to get this answer spot on. ",
+		"short":"obesity"
+	},
+	{
+		"question":"What percentage of politicians in the lower or single house – eg in Britain it would be members of parliament (MPs) – in [Country] are women?",
+		"id":"9",
+		"units":"%",
+		"index":4,
+		"text":"Respondents are far better informed when it comes to the number of women in politics. <i>However in several nations, including Russia, Mexico, New Zealand and Spain, the rate of error is greater than 10 points.</i>",
+		"short":"Religion"
+	},
+	{
+		"question":"What percentage of people in your country live in a rural area, that is, outside of a big town or city?",
+		"id":"10",
+		"units":"%",
+		"index":10,
+		"text":"Most respondents among those surveyed by Ipsos get this question wrong by more than 10 points, with the exception of people in China, Ireland, Montenegro, Poland, Russia and Saudi Arabia.",
+		"short":"people living in rural areas"
+	},
+	{
+		"question":"What percentage of the [Country] population do you think are immigrants to this country (i.e. not born in [Country])?",
+		"id":"11",
+		"units":"%",
+		"index":0,
+		"text":"Every country surveyed, except for Israel and Saudi Arabia, overestimated the proportion of the population born overseas. <i>In several cases, such as in South Africa, India, Brazil and Argentina, the difference between the actual proportion and the median response is greater than 20 points. Norwegians come closest to the actual figure.</i>",
+		"short":"immigration"
+	},
+	{
+		"question":"Out of every 100 working-age women in [Country], about how many do you think are in employment?",
+		"id":"12",
+		"index":8,
+		"text":"Conversely, probably one consequence of the global financial crisis has been that more people have​ taken an interest in the state of their country's economy — and in the makeup of its workforce. The error on this particular question was low compared to many other answers. <i>Nevertheless there are several countries where the difference between the actual figure and the median response was greater than 10 points, including in Germany. Americans got this question spot on.</i>",
+		"short":"Religion"
+	},
+	{
+		"question":"Out of every 100 young adults aged 25-34  in [Country], about how many do you think live with their parents?",
+		"id":"13",
+		"index":7,
+		"text":"It's a bit of a cliche that southern Europeans live with their parents well into their 30s. So it's probably not a surprise that many in Italy and Spain overshoot the proportion of 25-34 year olds that are still living with their parents.",
+		"short":"young adults living with their parents"
+	},
+]

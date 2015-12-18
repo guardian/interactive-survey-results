@@ -1,0 +1,42 @@
+svg {
+	width:100%;
+	height:100%;
+	//border:1px solid #ddd;
+}
+line.bg {
+	stroke:#ddd;
+	stroke-width:3;
+	shape-rendering: crispEdges;
+}
+
+.actual {
+	line {
+		stroke:#333;
+		stroke-width:1;
+		shape-rendering: crispEdges;
+	}
+}
+
+.mean {
+	circle {
+		fill:#951c55;
+		fill-opacity:1;
+	}
+	line {
+		stroke:#951c55;
+		stroke-width:1;
+		shape-rendering: crispEdges;
+	}
+}
+
+.gnm {
+	circle {
+		fill:#005689;
+		fill-opacity:1;
+	}
+	line {
+		stroke:#005689;
+		stroke-width:1;
+		shape-rendering: crispEdges;
+	}
+}
